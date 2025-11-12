@@ -1,6 +1,6 @@
 ### Hey there, I'm Akif :)
 
-I'm a passionate ML student obsessed with the entire data timeline, from the hardware that *creates* it to the models that *make sense* of it.
+I'm a passionate ML student obsessed with the entire data pipeline, from the hardware that *creates* it to the models that *make sense* of it.
 
 * **On the hardware side,** I love tinkering with IoT. My favorite project so far is building a custom mini-watch from scratch using an **esp32-c3 mini**.
 * **On the software side,** I build and deploy useful, high-performance ML models. I build end-to-end ML APIs (like a crop predictor with 92% accuracy, deployed on GCP with Docker) and am a **Top 20%** Kaggle competitor.
